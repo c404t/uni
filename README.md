@@ -1,12 +1,4 @@
-        _  _    ___  _  _   _   
-       | || |  / _ \| || | | |  
-    ___| || |_| | | | || |_| |_ 
-   / __|__   _| | | |__   _| __|
-  | (__   | | | |_| |  | | | |_ 
-   \___|  |_|  \___/   |_|  \__|
-       
+20 of the 27 projects.
 
-all of the 27 projects.
-
-###screenshots
-
+#screenshots
+![image](./screenshots/)
